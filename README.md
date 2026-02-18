@@ -33,7 +33,7 @@ Passionate about building modern, responsive, and scalable web applications.
 - Favorites (LocalStorage)
 - Responsive UI
 
-🔗 Live: (Add your live link here)  
+🔗 Live: https://react-movie-app-iota-eosin.vercel.app/ 
 💻 Code: (Add repo link here)
 
 ---
