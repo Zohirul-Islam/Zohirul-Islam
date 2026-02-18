@@ -24,7 +24,7 @@ Passionate about building modern, responsive, and scalable web applications.
 - Favorites (LocalStorage)
 - Responsive UI
 
-🔗 Live: https://next-todo-app-4ase.vercel.app/  
+🔗 Live: https://weatherboard-ten.vercel.app/ 
 💻 Code: (Add repo link here)
 ### 🎬 Movie App
 - API Integration
