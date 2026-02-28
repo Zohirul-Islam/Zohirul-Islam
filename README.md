@@ -44,7 +44,7 @@ Passionate about building modern, responsive, and scalable web applications.
 - Role-based Access
 - Responsive Design
 
-🔗 Live: (Add your live link here)  
+🔗 Live: frontend:https://online-bazar-hqkr.vercel.app/  
 💻 Code: (Add repo link here)
 
 ---
